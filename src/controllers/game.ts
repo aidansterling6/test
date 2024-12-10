@@ -27,12 +27,6 @@ loadGameData().then((data) => {
 });
 export const chanceOfRain: Writable<number> = writable(0);
 
-interface SaveData {
-  autosave: string;
-  save1: string;
-  save2: string;
-}
-
 interface updateLedgerEntry {
   map: GameMap;
   turn: number;
