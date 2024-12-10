@@ -1,0 +1,15 @@
+{
+  "name": "Plant Game",
+  "short_name": "Plant Game",
+  "start_url": "/cmpm121-finalProj/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "sun.png",
+      "sizes": "480x480",
+      "type": "image/png"
+    }
+  ]
+}

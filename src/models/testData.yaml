@@ -1,0 +1,10 @@
+events:
+  one_time_event:
+    - turn: 5
+    - chance_of_rain: 0.9
+  repeating_event:
+    - starting_turn: 6
+    - every: 2
+    - chance_of_rain: 0.5
+win_conditions:
+  point_requirement: 100
